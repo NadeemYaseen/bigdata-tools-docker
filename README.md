@@ -1,3 +1,5 @@
+#NOTE: Taken from [here](https://github.com/lschampion/hadoop-hive-hbase-spark-docker)
+
 # Big data playground: Cluster with Hadoop, Hive, Spark, Flink,HBase, Sqoop, Zeppelin and Livy via Docker-compose.
 
 I wanted to have the ability to play around with various big data
